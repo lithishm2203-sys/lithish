@@ -1,0 +1,2 @@
+# lithish
+AI aagumented application
